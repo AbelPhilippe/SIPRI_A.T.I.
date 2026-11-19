@@ -438,16 +438,6 @@ Em particular:
 
 ## Licença e uso
 
-Este projeto foi desenvolvido para fins **educacionais e acadêmicos** como parte do desafio do **UNIESP MBA em Engenharia e Ciência de Dados**.
+Este projeto foi desenvolvido para fins **educacionais e acadêmicos**.
 
 Os dados analisados são provenientes do **SIPRI Arms Transfers Database** e estão sujeitos às condições de uso estabelecidas pelo SIPRI.
-
-## Autores
-
-Projeto desenvolvido para:
-
-**UNIESP — MBA em Engenharia e Ciência de Dados**
-
-Repositório:
-
-https://github.com/AbelPhilippe/desafio_uniesp
